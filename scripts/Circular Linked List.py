@@ -74,6 +74,12 @@ class CLL:
         return None
 
     def insert_after(self, value, temp):
+        """
+        Insert a node after a given node
+        Args:
+            value: data to be stored in the node
+            temp: node after which the new node should be inserted
+        """
         if temp is None:
             return None
 
@@ -84,6 +90,9 @@ class CLL:
             self.last = new_node
 
     def print_list(self):
+        """
+        Print the elements of the linked list
+        """
         if not self.is_empty():
             temp = self.last.next
             while temp != self.last:
@@ -92,7 +101,9 @@ class CLL:
             print(temp.data)
 
     def delete_first(self):
-
+        """
+        Delete the first node of the linked list
+        """
         if not self.is_empty():
             if self.last.next == self.last:
                 self.last = None
@@ -100,6 +111,9 @@ class CLL:
                 self.last.next = self.last.next.next
 
     def delete_last(self):
+        """
+        Delete the last node of the linked list
+        """
         if not self.is_empty():
             if self.last.next == self.last:
                 self.last = None
@@ -111,6 +125,11 @@ class CLL:
                 self.last = temp
 
     def delete_item(self, data):
+        """
+        Delete a node with the given value
+        Args:
+            data: data to be deleted
+        """
         if not self.is_empty():
             if self.last.next == self.last:
                 if self.last.item == data:
@@ -132,7 +151,11 @@ class CLL:
                         temp = temp.next
 
     def __iter__(self):
-
+        """
+        Iterator method to traverse the linked list
+        Returns:
+            Iterator object
+        """
         temp = self.last.next
         while temp != self.last:
             yield temp.data
@@ -146,7 +169,6 @@ cll.insert_at_start(20)
 cll.insert_at_last(30)
 cll.insert_at_last(40)
 cll.insert_after(50, cll.search(10))
-# 20 10 50 30 40
 for x in cll:
     print(x, end=' ')
 print()
