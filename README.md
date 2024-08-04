@@ -6,3 +6,4 @@
 4. [Circular Doubly Linked List](/scripts/Circular%20Doubly%20Linked%20List.py)
 5. [Stack using list](/scripts/Stack%20using%20list.py)
 6. [Stack using linked list](/scripts/Stack%20using%20linked%20list.py)
+7. [Stack using linked list(ssl)](/scripts/Stack%20using%20linked%20list(SSL).py)
