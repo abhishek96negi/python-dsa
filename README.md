@@ -10,4 +10,4 @@
 8. [Stack by inheriting linked list](/scripts/Stack%20by%20inheriting%20linked%20list.py)
 9. [Queue using list](/scripts/Queue%20using%20list.py)
 10. [Queue using singly linked list](/scripts/Queue%20using%20singly%20linked%20list.py)
-
+11. [Deque using list](/scripts/Deque%20using%20list.py)
