@@ -12,3 +12,4 @@
 10. [Queue using singly linked list](/scripts/Queue%20using%20singly%20linked%20list.py)
 11. [Deque using list](/scripts/Deque%20using%20list.py)
 12. [Deque using Doubly Linked List](/scripts/Deque%20using%20Doubly%20Linked%20List.py)
+13. [Priority Queue using list](/scripts/Priority%20Queue%20using%20list.py)
