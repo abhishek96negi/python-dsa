@@ -14,3 +14,4 @@
 12. [Deque using Doubly Linked List](/scripts/Deque%20using%20Doubly%20Linked%20List.py)
 13. [Priority Queue using list](/scripts/Priority%20Queue%20using%20list.py)
 14. [Priority Queue using linked list](/scripts/Priority%20Queue%20using%20linked%20list.py)
+15. [Recursive solutions](scripts/Recursive%20solutions.py)
