@@ -1,5 +1,6 @@
 # python-dsa
 
+## Linear Data Structure
 1. [Singly Linked List](/scripts/Singly%20Linked%20List.py)
 2. [Doubly Linked List](/scripts/Doubly%20Linked%20List.py)
 3. [Circular Linked List](/scripts/Circular%20Linked%20List.py)
@@ -15,3 +16,6 @@
 13. [Priority Queue using list](/scripts/Priority%20Queue%20using%20list.py)
 14. [Priority Queue using linked list](/scripts/Priority%20Queue%20using%20linked%20list.py)
 15. [Recursive solutions](scripts/Recursive%20solutions.py)
+
+## Non-Linear Data Structure
+1. [Tree and binary tree](docs/Tree.ipynb)
