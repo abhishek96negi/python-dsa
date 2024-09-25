@@ -19,3 +19,4 @@
 
 ## Non-Linear Data Structure
 1. [Tree and binary tree](docs/Tree.ipynb)
+2. [Binary Search Tree](scripts/Binary%20Search%20Tree.py)
