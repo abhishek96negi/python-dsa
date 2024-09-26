@@ -21,3 +21,4 @@
 1. [Tree and binary tree](docs/Tree.ipynb)
 2. [Binary Search Tree](scripts/Binary%20Search%20Tree.py)
 3. [Graph](docs/Graph.ipynb)
+4. [Adjacency Matrix Implementation of Graph](scripts/Adjacency%20Matrix%20Implementation%20of%20Graph.py)
