@@ -2,10 +2,15 @@
 # This implementation assumes that the graph is represented as an adjacency list
 
 """
-Traversing graph has only issue that graph may have cycle. You may revisit a node.
-To avoid processing a node more than once, we divide the vertices into two categories:
-*  visited
-*  Not visited
+* Traversing graph has only issue that graph may have cycle. You may revisit a node.
+* To avoid processing a node more than once, we divide the vertices into two categories:
+    # visited
+    # Not visited
+
+* A boolean visited array is used to mark the visited vertices
+* BFS ( Breadth First Search) uses a queue data structure for traversal.
+Traversing begin from a node called
+source node
 """
 
 # Import the necessary data structures
