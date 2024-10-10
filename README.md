@@ -24,3 +24,4 @@
 4. [Adjacency Matrix Implementation of Graph](scripts/Adjacency%20Matrix%20Implementation%20of%20Graph.py)
 5. [Adjacency List Implementation of Graph](scripts/Adjacency%20List%20Implementation%20of%20Graph.py)
 6. [Breadth-First Search](scripts/Breadth-First%20Search.py)
+7. [Depth-First Search](scripts/Depth-First%20Search.py)
