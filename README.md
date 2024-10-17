@@ -25,3 +25,6 @@
 5. [Adjacency List Implementation of Graph](scripts/Adjacency%20List%20Implementation%20of%20Graph.py)
 6. [Breadth-First Search](scripts/Breadth-First%20Search.py)
 7. [Depth-First Search](scripts/Depth-First%20Search.py)
+
+## Sorting
+1. [Bubble Sort](scripts/Bubble%20Sort.py)
