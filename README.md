@@ -30,3 +30,4 @@
 1. [Bubble Sort](scripts/Bubble%20Sort.py)
 2. [Modified Bubble Sort](scripts/Modified%20Bubble%20Sort.py)
 3. [Selection Sort](scripts/Selection%20Sort.py)
+4. [Quick Sort](scripts/Quick%20Sort.py)
